@@ -1,0 +1,10 @@
+Declaração:
+	lista[10]: inteiro;
+	numero: inteiro;
+
+para numero de 0 ate 9 faça
+	escreva "digite o item", numero+1, "da lista:"
+	leia lista[numero]
+fim para
+
+FIM
